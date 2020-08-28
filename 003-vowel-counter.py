@@ -5,7 +5,7 @@ Created on Thu Aug 27 21:14:10 2020
 
 @author: kant
 
-# Challenge
+# Daily Challenge #3 - Vowel Counter
 
 Write a function that returns the number (count) of vowels in a given string. 
 Letters considered as vowels are: a, i, e, o, and u. The function should be 
